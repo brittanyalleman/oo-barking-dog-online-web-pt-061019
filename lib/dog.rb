@@ -17,8 +17,6 @@ end
 
 
 
-  puts "Woof!"
-end
 
 lassie = Dog.new
 lassie.name = "Lassie"
