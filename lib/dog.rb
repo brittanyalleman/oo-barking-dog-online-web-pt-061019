@@ -7,11 +7,13 @@ class Dog
     @name
   end
 end
+def bark
+  puts "Woof!"
+end
+
 lassie = Dog.new
 lassie.name = "Lassie"
 puts lassie.name
 
-def bark
-  puts "Woof!"
-end
-lassie.bark
+
+puts lassie.bark
