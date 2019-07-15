@@ -7,7 +7,7 @@ class Dog
     @name
   end
 
-def bark= Woof!
+def bark= (bark)
   @bark = Woof!
 end
 
