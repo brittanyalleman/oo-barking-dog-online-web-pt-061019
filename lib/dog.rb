@@ -12,7 +12,7 @@ def bark= ()
 end
 
 def bark
-  puts "Woof!"
+  puts "woof!"
 end
 
 
