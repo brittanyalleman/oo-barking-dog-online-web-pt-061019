@@ -13,5 +13,5 @@ puts lassie.name
 
 def bark
   puts "Woof!"
-end 
+end
 lassie.bark
