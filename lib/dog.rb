@@ -23,4 +23,3 @@ lassie.name = "Lassie"
 puts lassie.name
 puts lassie.bark
 end
-
