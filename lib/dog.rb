@@ -14,3 +14,4 @@ puts lassie.name
 def bark
   puts "Woof!"
 end 
+lassie.bark
